@@ -1,0 +1,6 @@
+[["white", " never played"], ["black", 0, 90, "F", 0, 0], ["red", " never played"], ["green", " never played"], ["blue", " never played"],
+  ["white", " never played"], ["black", 0, 90, "F", 0, 0], ["red", 5, 0, "D", 0, 2], ["green", " never played"], ["blue", " never played"],
+  ["white", " never played"], ["black", 5, 0, "E", 0, 2], ["red", 5, 0, "D", 0, 2], ["green", " never played"], ["blue", " never played"],
+  ["white", " never played"], ["black", 5, 0, "E", 0, 2], ["red", 13, 270, "A", 1, 2], ["green", " never played"], ["blue", " never played"],
+  ["white", " never played"], ["black", 16, 0, "F", 0, 3], ["red", 13, 270, "A", 1, 2], ["green", " never played"], ["blue", " never played"],
+  ["white", " never played"], ["black", 16, 0, "F", 0, 3], ["red", " exited"], ["green", " never played"], ["blue", " never played"]]

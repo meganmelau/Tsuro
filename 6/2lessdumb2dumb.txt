@@ -1,0 +1,1 @@
+[{"name": "alice", "strategy": "less_dumb"},{"name": "bob", "strategy": "dumb"},{"name": "jack", "strategy": "less_dumb"}, {"name": "cat", "strategy": "less_dumb"}]

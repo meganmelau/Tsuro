@@ -1,0 +1,10 @@
+[["white", " never played"], ["black", 10, 270, "E", 9, 0], ["red", " never played"], ["green", " never played"],
+  ["blue", " never played"], ["white", 0, 90, "D", 0, 9], ["black", 10, 270, "E", 9, 0], ["red", " never played"],
+  ["green", " never played"], ["blue", " never played"], ["white", 0, 90, "D", 0, 9], ["black", 10, 270, "E", 9, 0],
+  ["red", 6, 180, "H", 9, 9], ["green", " never played"], ["blue", " never played"], ["white", 0, 90, "D", 0, 9],
+  ["black", 10, 270, "E", 9, 0], ["red", 6, 180, "H", 9, 9], ["green", 21, 0, "C", 0, 0], ["blue", " never played"],
+  ["white", 0, 90, "D", 0, 9], ["black", 10, 270, "E", 9, 0], ["red", 18, 180, "F", 6, 0], ["green", 21, 0, "C", 0, 0],
+  ["blue", " never played"], ["white", 0, 90, "D", 0, 9], ["black", 10, 270, "E", 9, 0], ["red", 18, 180, "F", 6, 0],
+  ["green", 21, 0, "C", 0, 0], ["blue", 17, 180, "C", 0, 5], ["white", 14, 0, "B", 1, 9], ["black", 10, 270, "E", 9, 0],
+  ["red", 18, 180, "F", 6, 0], ["green", 21, 0, "C", 0, 0], ["blue", 17, 180, "C", 0, 5]]
+
